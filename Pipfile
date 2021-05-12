@@ -5,6 +5,13 @@ name = "pypi"
 
 [packages]
 autopep8 = "*"
+pillow = "*"
+notebook = "*"
+numpy = "*"
+matplotlib = "*"
+jupyter-contrib-nbextensions = "*"
+jupyter-nbextensions-configurator = "*"
+ipywidgets = "*"
 
 [dev-packages]
 
